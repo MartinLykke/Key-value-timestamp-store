@@ -1,5 +1,9 @@
 # Key-value-timestamp-store
 
+Install dependencies:
+
+pip install flask
+
 run the api with:
 
 python key_value_timestamp_store.py
