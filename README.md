@@ -5,7 +5,7 @@ Install dependencies:
 pip install flask
 ```
 
-run the api with:
+run the api:
 ```
 python key_value_timestamp_store.py
 ```
